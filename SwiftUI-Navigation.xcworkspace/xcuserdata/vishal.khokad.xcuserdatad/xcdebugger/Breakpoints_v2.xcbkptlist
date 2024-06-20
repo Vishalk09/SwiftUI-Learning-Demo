@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "668F5881-29E8-4C3C-9563-3348D9038F64"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99953F50-9FC2-4C08-8BB9-553685990BA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Navigation/NewsFeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getAPIResponse()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA0F3A56-5A46-4989-A351-7BE3632867E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Navigation/NewsFeedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getAPIResponse()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA0F3A56-5A46-4989-A351-7BE3632867E3 - 5d1b173e7e1d209f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in SwiftUI_Navigation.NewsFeedView.getAPIResponse() -&gt; ()"
+                  moduleName = "SwiftUI-Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishal.khokad/Desktop/MyWorkspace/SwiftUI/SwiftUI-Navigation/SwiftUI-Navigation/NewsFeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "349">
+               </Location>
+               <Location
+                  uuid = "BA0F3A56-5A46-4989-A351-7BE3632867E3 - 5d1b173e7e1d209f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in SwiftUI_Navigation.NewsFeedView.getAPIResponse() -&gt; ()"
+                  moduleName = "SwiftUI-Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishal.khokad/Desktop/MyWorkspace/SwiftUI/SwiftUI-Navigation/SwiftUI-Navigation/NewsFeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "465">
+               </Location>
+               <Location
+                  uuid = "BA0F3A56-5A46-4989-A351-7BE3632867E3 - 5d1b173e7e1d209f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in SwiftUI_Navigation.NewsFeedView.getAPIResponse() -&gt; ()"
+                  moduleName = "SwiftUI-Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishal.khokad/Desktop/MyWorkspace/SwiftUI/SwiftUI-Navigation/SwiftUI-Navigation/NewsFeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "BA0F3A56-5A46-4989-A351-7BE3632867E3 - 5d1b173e7e1d209f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in SwiftUI_Navigation.NewsFeedView.getAPIResponse() -&gt; ()"
+                  moduleName = "SwiftUI-Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishal.khokad/Desktop/MyWorkspace/SwiftUI/SwiftUI-Navigation/SwiftUI-Navigation/NewsFeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "BA0F3A56-5A46-4989-A351-7BE3632867E3 - 5d1b173e7e1d209f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in SwiftUI_Navigation.NewsFeedView.getAPIResponse() -&gt; ()"
+                  moduleName = "SwiftUI-Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishal.khokad/Desktop/MyWorkspace/SwiftUI/SwiftUI-Navigation/SwiftUI-Navigation/NewsFeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "442">
+               </Location>
+               <Location
+                  uuid = "BA0F3A56-5A46-4989-A351-7BE3632867E3 - 5d1b173e7e1d209f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in SwiftUI_Navigation.NewsFeedView.getAPIResponse() -&gt; ()"
+                  moduleName = "SwiftUI-Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishal.khokad/Desktop/MyWorkspace/SwiftUI/SwiftUI-Navigation/SwiftUI-Navigation/NewsFeedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "558">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F73AB74-84E7-45A5-90C0-4C0C992D2D67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Navigation/WordScramble.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "addNewWord()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
